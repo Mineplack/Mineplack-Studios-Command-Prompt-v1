@@ -16,5 +16,5 @@ You may edit code but if selling it off as own you must delete all of the code a
 # credits
 
 Mineplack - In charge of project                                                                                                                                          
-GmanRetro1975- Lead programer
+
 
